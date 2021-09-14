@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tertius
-- 👀 I’m interested in AI and Web Development
+- 👀 I’m interested in Software, App & Game Development
 - 🌱 I’m currently studying Programming Foundation
 
 <!---
